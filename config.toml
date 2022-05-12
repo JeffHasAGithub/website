@@ -9,10 +9,10 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -21,7 +21,7 @@ paginate = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -66,7 +66,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Jeff Moore"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
@@ -80,15 +80,19 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Jeff Moore"
       logoHomeLink = "/"
 
     [languages.en.menu]
+			[[languages.en.menu.main]]
+				identifier = "github"
+				name = "Github"
+				url = "https://github.com/JeffHasAGithub"
+			[[languages.en.menu.main]]
+				identifier = "resume"
+				name = "Resume"
+				url = "/resume"
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"
