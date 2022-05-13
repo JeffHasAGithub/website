@@ -56,5 +56,67 @@ View the source &lt;a href=&#34;https://github.com/JeffHasAGithub/node-chat&#34;
 </content>
     </item>
     
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>Professional Summary A self-taught software developer with a passion for learning and experimenting with the latest computer technologies. I design and develop software solutions with a strong emphasis on object-oriented design principles which leads to modular, testable, and reusable code.
+ Relevant Skills    Web Technologies Languages Databases     HTML, CSS, Sass C, C++, Go MySQL, SQLite   React, Vue PostgreSQL Bash, Python   Nodejs, Hugo Redis Typescript     Relevant Experience Freelance Web Developer</description>
+      <content>&lt;h3 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h3&gt;
+&lt;p&gt;A self-taught software developer with a passion for learning and experimenting
+with the latest computer technologies. I design and develop software solutions
+with a strong emphasis on object-oriented design principles which leads to
+modular, testable, and reusable code.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;relevant-skills&#34;&gt;Relevant Skills&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Web Technologies&lt;/th&gt;
+&lt;th&gt;Languages&lt;/th&gt;
+&lt;th&gt;Databases&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;HTML, CSS, Sass&lt;/td&gt;
+&lt;td&gt;C, C++, Go&lt;/td&gt;
+&lt;td&gt;MySQL, SQLite&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;React, Vue&lt;/td&gt;
+&lt;td&gt;PostgreSQL&lt;/td&gt;
+&lt;td&gt;Bash, Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nodejs, Hugo&lt;/td&gt;
+&lt;td&gt;Redis&lt;/td&gt;
+&lt;td&gt;Typescript&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;relevant-experience&#34;&gt;Relevant Experience&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Freelance Web Developer&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Worked with clients to understand their needs regarding a new website&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maintained active and regular communication with clients throughout development&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Delivered consistent updates that incorporated client feedback and suggestions&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;University of North Texas&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;
+Bachelor of Science: Applied Arts and Sciences&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>
