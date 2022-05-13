@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jeff Moore</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Jeff Moore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 May 2022 16:16:51 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello!</title>
+      <link>/posts/hello/</link>
+      <pubDate>Wed, 11 May 2022 16:16:51 -0500</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>Welcome to my website! If you would like to learn more about me, you can use the links at the top of the page to view my resume and some of my projects!</description>
+      <content>&lt;p&gt;Welcome to my website! If you would like to learn more about me,
+you can use the links at the top of the page to view my resume and
+some of my projects!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

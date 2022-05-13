@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeff Moore</title>
+    <link>/</link>
+    <description>Recent content on Jeff Moore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 May 2022 16:16:51 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello!</title>
+      <link>/posts/hello/</link>
+      <pubDate>Wed, 11 May 2022 16:16:51 -0500</pubDate>
+      
+      <guid>/posts/hello/</guid>
+      <description>Welcome to my website! If you would like to learn more about me, you can use the links at the top of the page to view my resume and some of my projects!</description>
+      <content>&lt;p&gt;Welcome to my website! If you would like to learn more about me,
+you can use the links at the top of the page to view my resume and
+some of my projects!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Arctic Express Pack</title>
+      <link>/projects/aep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/aep/</guid>
+      <description>I developed the website for Arctic Express Pack LLC, based out of Fort Worth, Texas. The original version of the site used plain HTML, CSS, and Javascript with hosting provided by GoDaddy.
+Since then, I have migrated the site over to Linode with NGINX acting as a reverse proxy to serve the app. The app itself uses a Nodejs backend to handle routing and templating as well as MySQL for managing data.</description>
+      <content>&lt;p&gt;&lt;img src=&#34;/images/aep.svg&#34; alt=&#34;Arctic Express Pack&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I developed the website for Arctic Express Pack LLC, based out of Fort Worth, Texas.
+The original version of the site used plain HTML, CSS, and Javascript with hosting
+provided by GoDaddy.&lt;/p&gt;
+&lt;p&gt;Since then, I have migrated the site over to Linode with NGINX acting as a reverse proxy
+to serve the app. The app itself uses a Nodejs backend to handle routing and templating
+as well as MySQL for managing data.&lt;/p&gt;
+&lt;p&gt;You can visit the website &lt;a href=&#34;https://arcticexpresspack.com&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Node Chat</title>
+      <link>/projects/chat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/chat/</guid>
+      <description>An anonymous online chat application using a Nodejs backend and the SocketIO library for handling client-server communication.
+Check it out here!
+View the source here!</description>
+      <content>&lt;p&gt;&lt;img src=&#34;/images/chat.png&#34; alt=&#34;Node Chat&#34;&gt;&lt;/p&gt;
+&lt;p&gt;An anonymous online chat application using a Nodejs backend
+and the SocketIO library for handling client-server communication.&lt;/p&gt;
+&lt;p&gt;Check it out &lt;a href=&#34;https://jeff-chat-app.herokuapp.com&#34;&gt;here&lt;/a&gt;!&lt;br&gt;
+View the source &lt;a href=&#34;https://github.com/JeffHasAGithub/node-chat&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
