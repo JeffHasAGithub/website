@@ -13,11 +13,11 @@ ___
 
 ### Relevant Skills
 
-| Web Technologies | Languages     | Databases     |
-| ---------------- | ------------- | ------------- |
-| HTML, CSS, Sass  | C, C++, Go    | MySQL, SQLite |
-| React, Vue       | PostgreSQL    | Bash, Python  |
-| Nodejs, Hugo     | Redis         | Typescript    |
+| Web        | Languages     | Databases     |
+| ---------  | ------------- | ------------- |
+| HTML, CSS  | C, C++, Go    | MySQL, SQLite |
+| React, Vue | Bash, Python  | PostgreSQL    |
+| Nodejs     | Typescript    | Redis         |
 
 ___
 
