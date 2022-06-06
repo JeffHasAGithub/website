@@ -1,12 +1,14 @@
 ---
-title: "Node Chat"
+title: "SocketIO Chat"
 draft: false
 ---
 
-![Node Chat](/images/chat.png)
+![SocketIO Chat](/images/chat.png)
 
 An anonymous online chat application using a Nodejs backend
 and the SocketIO library for handling client-server communication.
+
+_**Notice:** This app is currently built for desktop only._
 
 Check it out [here](https://jeff-chat-app.herokuapp.com)!  
 View the source [here](https://github.com/JeffHasAGithub/node-chat)!

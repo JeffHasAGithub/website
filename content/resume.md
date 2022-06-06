@@ -5,7 +5,7 @@ draft: false
 
 ### Professional Summary
 
-A self-taught software developer with a passion for learning and experimenting
+A full stack web developer with a passion for learning and experimenting
 with the latest computer technologies. I design and develop software solutions
 with a strong emphasis on object-oriented design principles which leads to
 modular, testable, and reusable code.
