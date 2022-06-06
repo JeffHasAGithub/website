@@ -135,7 +135,7 @@ View the source here!</description>
 &lt;p&gt;An anonymous online chat application using a Nodejs backend
 and the SocketIO library for handling client-server communication.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Notice:&lt;/strong&gt; This app is currently built for desktop only.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Check it out &lt;a href=&#34;https://jeff-chat-app.herokuapp.com&#34;&gt;here&lt;/a&gt;!&lt;br&gt;
+&lt;p&gt;Check it out &lt;a href=&#34;https://chat.jeffmadethiswebsite.com&#34;&gt;here&lt;/a&gt;!&lt;br&gt;
 View the source &lt;a href=&#34;https://github.com/JeffHasAGithub/node-chat&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </content>
     </item>
