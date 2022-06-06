@@ -40,19 +40,22 @@ as well as MySQL for managing data.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Node Chat</title>
-      <link>/projects/chat/</link>
+      <title>Password Generator</title>
+      <link>/projects/password/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/chat/</guid>
-      <description>An anonymous online chat application using a Nodejs backend and the SocketIO library for handling client-server communication.
+      <guid>/projects/password/</guid>
+      <description>A fully responsive password generator app written in Typescript and React.
+In addition to allowing you to create passwords between 8 to 16 characters in length, the app provides options for toggling several different character types for inclusion in the generation algorithm. Once you&amp;rsquo;ve created a password that you&amp;rsquo;re proud to call your own, click &amp;lsquo;Copy to clipboard&amp;rsquo; to use it outside the app.
 Check it out here!
 View the source here!</description>
-      <content>&lt;p&gt;&lt;img src=&#34;/images/chat.png&#34; alt=&#34;Node Chat&#34;&gt;&lt;/p&gt;
-&lt;p&gt;An anonymous online chat application using a Nodejs backend
-and the SocketIO library for handling client-server communication.&lt;/p&gt;
-&lt;p&gt;Check it out &lt;a href=&#34;https://jeff-chat-app.herokuapp.com&#34;&gt;here&lt;/a&gt;!&lt;br&gt;
-View the source &lt;a href=&#34;https://github.com/JeffHasAGithub/node-chat&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+      <content>&lt;p&gt;&lt;img src=&#34;/images/password.jpg&#34; alt=&#34;Password Generator&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A fully responsive password generator app written in Typescript and React.&lt;/p&gt;
+&lt;p&gt;In addition to allowing you to create passwords between 8 to 16 characters in length, the app provides options
+for toggling several different character types for inclusion in the generation algorithm. Once you&amp;rsquo;ve created a
+password that you&amp;rsquo;re proud to call your own, click &amp;lsquo;Copy to clipboard&amp;rsquo; to use it outside the app.&lt;/p&gt;
+&lt;p&gt;Check it out &lt;a href=&#34;https://password.jeffmadethiswebsite.com&#34;&gt;here&lt;/a&gt;!&lt;br&gt;
+View the source &lt;a href=&#34;https://github.com/JeffHasAGithub/password-react&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </content>
     </item>
     
@@ -62,10 +65,10 @@ View the source &lt;a href=&#34;https://github.com/JeffHasAGithub/node-chat&#34;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/resume/</guid>
-      <description>Professional Summary A self-taught software developer with a passion for learning and experimenting with the latest computer technologies. I design and develop software solutions with a strong emphasis on object-oriented design principles which leads to modular, testable, and reusable code.
+      <description>Professional Summary A full stack web developer with a passion for learning and experimenting with the latest computer technologies. I design and develop software solutions with a strong emphasis on object-oriented design principles which leads to modular, testable, and reusable code.
  Relevant Skills    Web Languages Databases     HTML, CSS C, C++, Go MySQL, SQLite   React, Vue Bash, Python PostgreSQL   Nodejs Typescript Redis     Relevant Experience Freelance Web Developer</description>
       <content>&lt;h3 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h3&gt;
-&lt;p&gt;A self-taught software developer with a passion for learning and experimenting
+&lt;p&gt;A full stack web developer with a passion for learning and experimenting
 with the latest computer technologies. I design and develop software solutions
 with a strong emphasis on object-oriented design principles which leads to
 modular, testable, and reusable code.&lt;/p&gt;
@@ -115,6 +118,79 @@ modular, testable, and reusable code.&lt;/p&gt;
 &lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;University of North Texas&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;
 Bachelor of Science: Applied Arts and Sciences&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>SocketIO Chat</title>
+      <link>/projects/chat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/chat/</guid>
+      <description>An anonymous online chat application using a Nodejs backend and the SocketIO library for handling client-server communication.
+Notice: This app is currently built for desktop only.
+Check it out here!
+View the source here!</description>
+      <content>&lt;p&gt;&lt;img src=&#34;/images/chat.png&#34; alt=&#34;SocketIO Chat&#34;&gt;&lt;/p&gt;
+&lt;p&gt;An anonymous online chat application using a Nodejs backend
+and the SocketIO library for handling client-server communication.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Notice:&lt;/strong&gt; This app is currently built for desktop only.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Check it out &lt;a href=&#34;https://jeff-chat-app.herokuapp.com&#34;&gt;here&lt;/a&gt;!&lt;br&gt;
+View the source &lt;a href=&#34;https://github.com/JeffHasAGithub/node-chat&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Virtual Piano</title>
+      <link>/projects/piano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/piano/</guid>
+      <description>A virtual piano application written in Typescript. It features 8 octaves and allows you to control it via the mouse or keyboard, or both if you&amp;rsquo;re feeling particularly daring.
+Notice: Due to integration with the keyboard, this app is not optimized for mobile devices.
+Check it out here!
+View the source here!</description>
+      <content>&lt;p&gt;&lt;img src=&#34;/images/piano.jpg&#34; alt=&#34;Virtual Piano&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A virtual piano application written in Typescript. It features 8 octaves and allows you to control
+it via the mouse or keyboard, or both if you&amp;rsquo;re feeling particularly daring.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Notice:&lt;/strong&gt; Due to integration with the keyboard, this app is not optimized for mobile devices.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Check it out &lt;a href=&#34;https://piano.jeffmadethiswebsite.com&#34;&gt;here&lt;/a&gt;!&lt;br&gt;
+View the source &lt;a href=&#34;https://github.com/JeffHasAGithub/piano-ts&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Weather</title>
+      <link>/projects/weather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/weather/</guid>
+      <description>A full stack weather application using data sourced from WeatherAPI. The front end was written in Typescript and React while the back end was written in Go. The app is fully responsive and allows you to view the current weather conditions as well as the projected three day forecast for any location.
+Check it out here!
+View the source here!</description>
+      <content>&lt;p&gt;&lt;img src=&#34;/images/weather.jpg&#34; alt=&#34;Weather&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A full stack weather application using data sourced from WeatherAPI. The front end was written in Typescript and React while the back end was
+written in Go. The app is fully responsive and allows you to view the current weather conditions as well as
+the projected three day forecast for any location.&lt;/p&gt;
+&lt;p&gt;Check it out &lt;a href=&#34;https://weather.jeffmadethiswebsite.com&#34;&gt;here&lt;/a&gt;!&lt;br&gt;
+View the source &lt;a href=&#34;https://github.com/JeffHasAGithub/weather-react&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Wordle</title>
+      <link>/projects/wordle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/wordle/</guid>
+      <description>My own implementation of the popular online word game, written in Typescript and React. It is fully responsive and features ~200 unique words.
+Check it out here!
+View the source here!</description>
+      <content>&lt;p&gt;&lt;img src=&#34;/images/wordle.jpg&#34; alt=&#34;Wordle&#34;&gt;&lt;/p&gt;
+&lt;p&gt;My own implementation of the popular online word game, written in Typescript and React. It is fully
+responsive and features ~200 unique words.&lt;/p&gt;
+&lt;p&gt;Check it out &lt;a href=&#34;https://wordle.jeffmadethiswebsite.com&#34;&gt;here&lt;/a&gt;!&lt;br&gt;
+View the source &lt;a href=&#34;https://github.com/JeffHasAGithub/wordle-react&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
 </content>
     </item>
     

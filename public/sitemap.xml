@@ -15,12 +15,20 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/projects/chat/</loc>
+    <loc>/projects/password/</loc>
   </url><url>
     <loc>/projects/</loc>
   </url><url>
     <loc>/resume/</loc>
   </url><url>
+    <loc>/projects/chat/</loc>
+  </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/projects/piano/</loc>
+  </url><url>
+    <loc>/projects/weather/</loc>
+  </url><url>
+    <loc>/projects/wordle/</loc>
   </url>
 </urlset>
